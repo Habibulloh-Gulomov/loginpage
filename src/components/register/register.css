@@ -1,0 +1,14 @@
+.login-sms-box{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+  flex-wrap: nowrap;
+}
+
+.login-sms{
+  padding: 15px 15px;
+  border-radius: 5px;
+  width: 15px;
+  border: 0.5px solid gray;
+  text-align: center;
+}
